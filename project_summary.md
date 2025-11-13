@@ -32,3 +32,16 @@ $$
 
 - up to 5 predictions for each user event
 - Presentation
+
+## DoR / DoD
+
+DoR: 
+- The Card is well defined (Title, Description, Sub-tasks)
+- Acceptance criteria are clearly defined and agreed upon
+- The Card can be completed within one day
+- Dependencies are identified and managed
+
+DoD:
+- All acceptance criteria are met
+- Code has been peer-reviewed and merged into the main branch
+- The team has reviewed and accepted the story
