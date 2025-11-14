@@ -1,0 +1,21 @@
+
+Notion page:
+https://www.notion.so/sa-nf-product/ML-Project-2a708d5874d280809d85eec47e4c9b90#2a708d5874d281fb8703c1a45875724b
+
+Kaggle project:
+https://www.kaggle.com/competitions/expedia-hotel-recommendations/overview
+
+
+Trello board:
+https://trello.com/b/2QB7rsXq/aipmmlproject
+
+Trello board (Copy for Roadmap):
+https://trello.com/b/vBHr7VYl/aipmmlprojectroadmap
+
+
+Github project:
+https://github.com/ChrisMiething/expedia-team-5
+
+
+Presentation:
+https://docs.google.com/presentation/d/1BLkIRQ4-fOtgDmcp5B4NUrV0ke8FHAaNQZ8Len7CwMQ/edit
